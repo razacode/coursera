@@ -24,7 +24,7 @@ Welcome to the Summer School GenAI Workshop! This workshop is designed for stude
   - LLaMA
 - **Activities**:
   - Brief overview of each tool
-  - Hands-on session: Generating text with ChatGPT
+  - Hands-on session: Generating text with those tools
 
 #### Day 2: Creating Images with DALL-E
 - **Objective**: Learn how to create images using DALL-E.
